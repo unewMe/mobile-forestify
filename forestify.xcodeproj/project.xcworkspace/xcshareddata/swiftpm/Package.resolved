@@ -1,0 +1,24 @@
+{
+  "originHash" : "d1bfe5ecf612bea2bd4e6ecd6285f0324e13c962717baa47397c6012dd9f6f44",
+  "pins" : [
+    {
+      "identity" : "clustermap",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vospennikov/ClusterMap.git",
+      "state" : {
+        "revision" : "f3e60a742e6d3c149ce5d0c7424f373ef1b38140",
+        "version" : "2.1.1"
+      }
+    },
+    {
+      "identity" : "swiftsvg",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mchoe/SwiftSVG.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "88b9ee086b29019e35f6f49c8e30e5552eb8fa9d"
+      }
+    }
+  ],
+  "version" : 3
+}
